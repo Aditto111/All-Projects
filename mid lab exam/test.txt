@@ -1,0 +1,30 @@
+
+
+Name: rakib 
+Marks=0 
+Name: .20 
+Marks=0 
+Name: r 
+Marks=0 
+Name: .20 
+Marks=0 
+Name: p 
+Marks=70 
+Name: rr 
+Marks=50 
+Name: 0.20 
+Marks=50 
+Name: 0.30 
+Marks=53 
+Name: rakib 
+Marks=50 
+Name: rajib 
+Marks=20 
+Name: masum 
+Marks=20 
+Name: billah 
+Marks=10 
+Name: rakib 
+Marks=502 
+Name: rajib 
+Marks=100 
